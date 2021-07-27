@@ -1,0 +1,27 @@
+body {
+    background-color: powderblue;
+  }
+  h1 {
+    color: rgb(87, 87, 209);
+  }
+  h2 {
+    text-align: center;  
+  }
+
+  p {
+    color: red;
+  }
+
+table {
+  text-align: center; 
+      border-style: dashed;
+      /* border-collapse: collapse; */
+      }
+
+table th {
+        border: 1px solid black;
+      }
+
+table td {
+    border: 1px solid black;
+  }
